@@ -1,13 +1,13 @@
 {
-  "name": "تليثون العرب",
-  "description": "تنصيب تليثون العرب الاصلي معرف قناتنا @iqthon ",
-  "logo": "https://telegra.ph/file/277559574a1e241f5532e.jpg",
+  "name": "تليثون جوكر سفن اكس",
+  "description": "⿻↬──────@J0KER_7x للمعرفة تنصيب سورس جوكر سفن اكس تليثون معرف قناتنا ",
+  "logo": "https://telegra.ph/file/b3f5291e7728756f900b4.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telenothelp/Help/",
+  "repository": "https://github.com/JOKER-7X/Helper",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -37,12 +37,12 @@
     },
     "TZ": {
       "description": " الوقت",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "لاتـغيره! ",
-      "value": "Telethon-Ar",
+      "value": "https://github.com/JOKER-7X/TelethonJOKER7x",
       "required": false
     }
   },
